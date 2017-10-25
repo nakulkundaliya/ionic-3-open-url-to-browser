@@ -7,7 +7,7 @@ $ sudo npm install -g ionic cordova
 ```
 # Demo View #
 
-![alt text](https://github.com/nakulkundaliya/ionic-3-open-url-to-browser/demo.gif)
+![alt text](https://github.com/nakulkundaliya/ionic-3-open-url-to-browser/blob/master/demo.gif)
 
 
 ### Run project
