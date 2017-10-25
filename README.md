@@ -5,6 +5,11 @@
 ```bash
 $ sudo npm install -g ionic cordova
 ```
+# Demo View #
+
+![alt text](https://github.com/nakulkundaliya/ionic-3-open-url-to-browser/demo.gif)
+
+
 ### Run project
 
 1. clone this project to your machine
